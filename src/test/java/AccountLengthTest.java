@@ -1,4 +1,4 @@
-import jdk.jfr.Description;
+import io.qameta.allure.Description;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
